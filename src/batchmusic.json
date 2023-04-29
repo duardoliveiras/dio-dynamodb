@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Racionais MC's"},
+                  "SongTitle": {"S": "Holocausto Urbano"},
+                  "AlbumTitle": {"S": "Panico na Zona Sul"},
+                  "SongYear": {"S": "1997"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Djonga"},
+                  "SongTitle": {"S": "Verdades Invertidas"},
+                  "AlbumTitle": {"S": "Heresia"},
+                  "SongYear": {"S": "2017"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Djonga"},
+                  "SongTitle": {"S": "Geminiano"},
+                  "AlbumTitle": {"S": "Heresia"},
+                  "SongYear": {"S": "2017"}
                 }
             }
         }

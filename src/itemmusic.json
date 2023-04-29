@@ -1,6 +1,7 @@
 {
-  "Artist": {"S": "Iron Maiden"},
-  "SongTitle": {"S": "Chains of Misery"},
-  "AlbumTitle": {"S": "Fear of the Dark"},
-  "SongYear": {"S": "1992"}
+  "Artist": {"S": "BK"},
+  "SongTitle": {"S": "Caminhos"},
+  "AlbumTitle": {"S": "Castelos e Ruinas"},
+  "SongYear": {"S": "2016"}
 }
+
